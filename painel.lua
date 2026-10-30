@@ -21,7 +21,7 @@ Workspace:GetPropertyChangedSignal("CurrentCamera"):Connect(function()
     Camera = Workspace.CurrentCamera
 end)
 
--- REMOVE OLD GUI
+
 local old = playerGui:FindFirstChild("ClientDashboardUI")
 if old then old:Destroy() end
 
