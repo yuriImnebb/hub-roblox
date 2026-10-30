@@ -1,10 +1,4 @@
 
---============================================================
--- CLIENT MONITOR | CLEAN MONOCHROME EDITION
--- Roblox Studio - StarterPlayerScripts - LocalScript | painel físico flutuante SurfaceGui
---============================================================
-
--- SERVICES
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
